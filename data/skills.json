@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "JavaScript/TypeScript",
+    "category": "Languages",
+    "proficiency": 95,
+    "icon": "Code2",
+    "description": "Expert in modern JavaScript (ES6+) and TypeScript for type-safe development",
+    "yearsOfExperience": 5
+  },
+  {
+    "id": "2",
+    "name": "React & Next.js",
+    "category": "Frontend",
+    "proficiency": 90,
+    "icon": "Layers",
+    "description": "Advanced proficiency in React ecosystem and Next.js for production applications",
+    "yearsOfExperience": 4
+  },
+  {
+    "id": "3",
+    "name": "Node.js & Express",
+    "category": "Backend",
+    "proficiency": 85,
+    "icon": "Server",
+    "description": "Building scalable REST APIs and microservices",
+    "yearsOfExperience": 4
+  },
+  {
+    "id": "4",
+    "name": "PostgreSQL & MongoDB",
+    "category": "Databases",
+    "proficiency": 80,
+    "icon": "Database",
+    "description": "Database design, optimization, and management for both SQL and NoSQL",
+    "yearsOfExperience": 3
+  },
+  {
+    "id": "5",
+    "name": "Tailwind CSS",
+    "category": "Frontend",
+    "proficiency": 92,
+    "icon": "Palette",
+    "description": "Creating responsive, accessible UIs with utility-first CSS",
+    "yearsOfExperience": 3
+  },
+  {
+    "id": "6",
+    "name": "Python & FastAPI",
+    "category": "Backend",
+    "proficiency": 75,
+    "icon": "Terminal",
+    "description": "Building high-performance APIs and data processing pipelines",
+    "yearsOfExperience": 2
+  },
+  {
+    "id": "7",
+    "name": "Docker & Kubernetes",
+    "category": "DevOps",
+    "proficiency": 70,
+    "icon": "Container",
+    "description": "Containerization and orchestration for scalable deployments",
+    "yearsOfExperience": 2
+  },
+  {
+    "id": "8",
+    "name": "AWS & Cloud Services",
+    "category": "DevOps",
+    "proficiency": 78,
+    "icon": "Cloud",
+    "description": "Cloud architecture, deployment, and management on AWS",
+    "yearsOfExperience": 3
+  },
+  {
+    "id": "9",
+    "name": "Git & GitHub",
+    "category": "Tools",
+    "proficiency": 88,
+    "icon": "GitBranch",
+    "description": "Version control, CI/CD pipelines, and collaborative development",
+    "yearsOfExperience": 5
+  },
+  {
+    "id": "10",
+    "name": "UI/UX Design",
+    "category": "Design",
+    "proficiency": 82,
+    "icon": "Figma",
+    "description": "User-centered design, prototyping, and design systems",
+    "yearsOfExperience": 3
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "company": "Tech Innovations Inc.",
+    "position": "Senior Full-Stack Developer",
+    "location": "San Francisco, CA (Remote)",
+    "startDate": "2022-01",
+    "endDate": null,
+    "current": true,
+    "description": "Leading development of enterprise-scale web applications using Next.js, TypeScript, and Node.js. Architecting microservices and implementing DevOps practices.",
+    "achievements": [
+      "Led migration of monolithic application to microservices, improving scalability by 300%",
+      "Reduced page load times by 60% through performance optimization",
+      "Mentored 5 junior developers and conducted code reviews",
+      "Implemented CI/CD pipelines reducing deployment time from hours to minutes"
+    ],
+    "technologies": ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "Docker", "AWS", "Kubernetes"]
+  },
+  {
+    "id": "2",
+    "company": "Digital Solutions Agency",
+    "position": "Full-Stack Developer",
+    "location": "New York, NY",
+    "startDate": "2020-03",
+    "endDate": "2021-12",
+    "current": false,
+    "description": "Developed custom web applications for diverse clients including e-commerce platforms, SaaS products, and corporate websites.",
+    "achievements": [
+      "Delivered 15+ client projects with 100% on-time completion rate",
+      "Improved client retention rate by 40% through exceptional code quality",
+      "Implemented responsive design system used across 20+ projects",
+      "Increased team productivity by introducing automated testing practices"
+    ],
+    "technologies": ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS", "Jest"]
+  },
+  {
+    "id": "3",
+    "company": "StartupX",
+    "position": "Frontend Developer",
+    "location": "Austin, TX",
+    "startDate": "2019-01",
+    "endDate": "2020-02",
+    "current": false,
+    "description": "Built and maintained the company's main product interface, focusing on user experience and performance optimization.",
+    "achievements": [
+      "Redesigned UI improving user engagement by 45%",
+      "Reduced bundle size by 50% through code splitting and optimization",
+      "Implemented accessibility features achieving WCAG 2.1 AA compliance",
+      "Collaborated with design team to create cohesive design system"
+    ],
+    "technologies": ["React", "Redux", "JavaScript", "SASS", "Webpack", "Figma"]
+  },
+  {
+    "id": "4",
+    "company": "Freelance Developer",
+    "position": "Web Developer",
+    "location": "Remote",
+    "startDate": "2017-06",
+    "endDate": "2018-12",
+    "current": false,
+    "description": "Provided web development services to small businesses and startups, creating custom websites and web applications.",
+    "achievements": [
+      "Completed 30+ projects for clients across various industries",
+      "Maintained 5-star rating on freelance platforms",
+      "Built long-term relationships with 10+ repeat clients",
+      "Specialized in WordPress, PHP, and JavaScript development"
+    ],
+    "technologies": ["WordPress", "PHP", "JavaScript", "MySQL", "HTML/CSS", "jQuery"]
+  },
+  {
+    "id": "5",
+    "company": "University Tech Lab",
+    "position": "Junior Web Developer (Intern)",
+    "location": "Boston, MA",
+    "startDate": "2016-09",
+    "endDate": "2017-05",
+    "current": false,
+    "description": "Assisted in developing and maintaining university web portals and internal tools for faculty and students.",
+    "achievements": [
+      "Developed student portal used by 10,000+ students",
+      "Automated data entry processes saving 20 hours per week",
+      "Gained hands-on experience with version control and agile methodologies",
+      "Received commendation for outstanding contribution to team projects"
+    ],
+    "technologies": ["HTML", "CSS", "JavaScript", "Python", "Django", "Git"]
+  }
+]
